@@ -1,0 +1,8 @@
+{
+  "name": "SmartHire – AI-Powered HR Recruitment & Candidate Screening System",
+  "description": "Enterprise-grade HR recruitment screening platform implementing DBMS relational schema, DMGT predicate eligibility logic, ADSA B-Tree indexing, OOP domain modeling, and Python dynamic fit scoring.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
